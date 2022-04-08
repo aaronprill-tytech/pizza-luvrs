@@ -1,7 +1,7 @@
 const Sequelize = require('sequelize')
 
 const database = 'pizza_luvrs'
-const host = '<enter_host_here>'
+const host = 'pizza-db.cw51ejprj31n.us-east-1.rds.amazonaws.com'
 const username = 'postgres'
 const password = 'password'
 
